@@ -8,12 +8,10 @@
     <div>
     <h2 align="center"> 🔥 ~ 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 ~ 🔥 </h2>
     <li>
-    <b align="center">Name:</b> Krasimir</li>
-    <b>Hobbys:</b> Web Development & Milf Stalkin'
-    </li>
+    <b>Name:</b> Krasimir</li>
+    <b>Hobbys:</b> Web Development & Milf Stalkin'</li>
     <li>
-    <b>Age @:</b> 16
-    </li>
+    <b>Age @:</b> 16</li>
     <br>
     </div>
     <div>
