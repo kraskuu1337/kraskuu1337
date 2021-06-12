@@ -1,12 +1,12 @@
 <body>
-    <h1 align="center">~ 🌵 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓶𝔂 𝓟𝓻𝓸𝓯𝓲𝓵𝓮 🌵 ~</h1>
+    <h1 align="center">~ 🔥 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓶𝔂 𝓟𝓻𝓸𝓯𝓲𝓵𝓮 🔥 ~</h1>
     <br>
     <div align="center">
     <img src="https://lastfm.freetls.fastly.net/i/u/770x0/2cba38da15a1b44e54faee0705f05309.gif">
     </div>
     <br>
     <div>
-    <h2 align="center"> 🌵 ~ 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 ~ 🌵 </h2>
+    <h2 align="center"> 🔥 ~ 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 ~ 🔥 </h2>
     <li>
     <b align="center">Name:</b> Krasimir</li>
     <b>Hobbys:</b> Web Development & Milf Stalkin'
@@ -17,7 +17,7 @@
     <br>
     </div>
     <div>
-    <h1 align="center">            ~ 🌵 𝓚𝓷𝓸𝔀𝓵𝓮𝓭𝓰𝓮 🌵 ~</h1>
+    <h1 align="center">            ~ 🔥 𝓚𝓷𝓸𝔀𝓵𝓮𝓭𝓰𝓮 🔥 ~</h1>
     <p>
     </div>
     <div>
