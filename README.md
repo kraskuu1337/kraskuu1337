@@ -17,7 +17,7 @@
     <br>
     </div>
     <div>
-    <h2 align="left">            ~ 🌵 𝓚𝓷𝓸𝔀𝓵𝓮𝓭𝓰𝓮 🌵 ~</h2>
+    <h1 align="center">            ~ 🌵 𝓚𝓷𝓸𝔀𝓵𝓮𝓭𝓰𝓮 🌵 ~</h1>
     <p>
     </div>
     <div>
