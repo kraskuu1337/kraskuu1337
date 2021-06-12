@@ -2,7 +2,7 @@
     <h1 align="center">~ 🌵 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓶𝔂 𝓟𝓻𝓸𝓯𝓲𝓵𝓮 🌵 ~</h1>
     <br>
     <div align="center">
-    <img src="https://i.imgur.com/jx17oHT.gif">
+    <img src="https://lastfm.freetls.fastly.net/i/u/770x0/2cba38da15a1b44e54faee0705f05309.gif">
     </div>
     <br>
     <div>
